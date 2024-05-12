@@ -1,0 +1,21 @@
+Hola
+	Para que le funcione el codigo en su computadora tendra que hacerles unas modificaciones.
+
+	En las lineas 11 y 16 tendra que borrar el directorio que se encuentra entre parentesis 
+	y colocar donde se encuentra la imagen en su computadora. 
+
+	Recuerde que al poner el nombre de la imagen vaya acompañado con su Formato
+	En el caso de la linea 11 el formato de la imagen es ".ico"
+	En el caso de la linea 16 el formato de la imagen es ".png"
+
+----------------------------------------------------------------------------------------------------------
+
+	Otra modificacion que tendra que realizar es en la linea 46
+	Ahi en la variable API_key lo que tendra que modificar es lo que se encuentra entre comillas
+	
+	¿Como consigue su API?
+
+	Para conseguir y colocarla en el codigo tendra que entrar a la pagina web que nos brinda la informacion
+	la cual es "https://openweathermap.org/" y crearse una cuenta.
+	Luego de crearse una cuenta tendra que ingresar a "https://home.openweathermap.org/api_keys" copiar su apikey y luego pegarla en la variable API_key linea 46
+	
